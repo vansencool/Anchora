@@ -1,0 +1,4 @@
+name: Anchora
+version: '${version}'
+main: dev.vansen.anchora.Anchora
+api-version: '1.21'
